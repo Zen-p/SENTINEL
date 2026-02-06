@@ -1,0 +1,8 @@
+*.txt
+
+worker/target
+worker/.idea
+
+.github/*
+
+.vscode
